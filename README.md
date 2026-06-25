@@ -24,8 +24,11 @@ Focuses on conversion efficiency, revenue contribution, device-level funnel perf
 ## ✨ Project Highlights
 
 -Built an end-to-end analytics pipeline using Google Analytics 4 (GA4), BigQuery, dbt, and Power BI.
+
 -Designed a layered dbt data model to transform raw event data into analytics-ready fact tables for reporting.
+
 -Developed two interactive Power BI dashboards to analyze user journeys, funnel performance, acquisition channels, device behavior, and revenue trends.
+
 -Created SQL and DAX calculations to measure conversion rates, funnel progression, and key business KPIs for decision-making.
 
 
