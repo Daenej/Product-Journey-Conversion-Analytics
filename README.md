@@ -14,12 +14,12 @@ An end-to-end analytics pipeline was built using **BigQuery**, **dbt**, and **Po
 ### Executive Overview 
 Provides a high-level view of user activity, funnel performance, traffic channels, device distribution, and key business metrics.
 
-![Executive Overview](page1/graph.png)
+![Executive Overview](images/page1.png)
 
 ### Conversion Performance Analysis
 Focuses on conversion efficiency, revenue contribution, device-level funnel performance, and overall funnel progression to identify optimization opportunities.
 
-![Conversion Performance Analysis](page2/graph.png)
+![Conversion Performance Analysis](images/page2.png)
 
 ## ✨ Project Highlights
 
