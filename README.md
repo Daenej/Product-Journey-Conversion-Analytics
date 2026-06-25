@@ -7,6 +7,6 @@ An end-to-end analytics pipeline was built using **BigQuery**, **dbt**, and **Po
 
 ## 🏗️ Architecture
 
-<img width="1812" height="506" alt="graph" src="https://github.com/user-attachments/assets/292ee7f6-8f37-4370-b5e9-3584764a5514" />
+![Architecture](images/graph.png)
 
 
